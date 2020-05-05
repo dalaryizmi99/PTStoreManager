@@ -10,6 +10,7 @@ namespace PTStoreManager.Controllers
     {
         public ActionResult Index()
         {
+            //test push
             return View();
         }
 
